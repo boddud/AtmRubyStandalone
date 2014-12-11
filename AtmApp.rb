@@ -23,6 +23,7 @@ if $uaobj.validPin(accno,pin)==true
   puts "||4) Click 4 to add an Acc      ||"  
   puts "||5) Click 5 to logout          ||"
   puts " <=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*> "
+
   while true 
     puts "Please Enter Your choice"
     choice =gets.to_i
